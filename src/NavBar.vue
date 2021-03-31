@@ -13,9 +13,6 @@
 
   export default defineComponent({
     name: 'NavBar',
-    // setup() {
-    //   return {};
-    // },
   });
 </script>
 
